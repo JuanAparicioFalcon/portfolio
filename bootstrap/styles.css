@@ -1,0 +1,25 @@
+body {
+    background-color: #FFFFFF;
+    color: #003366;
+}
+
+header {
+    background-color: #003366;
+    color: #FFFFFF;
+}
+
+footer {
+    background-color: #003366;
+    color: #FFD700;
+}
+
+.contact-section {
+    background-color: #F8F9FA;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.btn-custom {
+    background-color: #FFD700;
+    color: #003366;
+}
